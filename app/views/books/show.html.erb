@@ -1,5 +1,3 @@
-<p id="notice"><%= notice %></p>
-
 <div class="book">
   <%= content_tag :span, "#{@book.name} (#{@book.author})", class: "book-title" %>
   <%= link_to 'Edit', edit_book_path(@book) %>
