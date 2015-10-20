@@ -27,6 +27,7 @@
 	width: 300px;
 }
 
-#notice { color: green; }
-.field { margin: 5px; }
+#notice  { color: green; }
+#alert   { color: red; }
+.field   { margin: 5px; }
 .actions { margin: 10px 0px; }
